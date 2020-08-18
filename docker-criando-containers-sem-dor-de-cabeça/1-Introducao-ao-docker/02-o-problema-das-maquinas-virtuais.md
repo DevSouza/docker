@@ -6,7 +6,7 @@ Antes de vermos sobre o Docker, precisamos saber mais como hospedamos aplicaçõ
 
 Antigamente, quando queríamos montar o nosso sistema, com vários serviços (bancos de dados, proxy, etc) e aplicações, acabávamos tendo vários servidores físicos, cada um com um serviço ou aplicação do nosso sistema, por exemplo:
 
-![imagens/servicos-servidores.png](/imagens/servicos-servidores.png)
+![imagens/servicos-servidores.png](./imagens/servicos-servidores.png)
 
 E claro, não conseguimos instalar os serviços diretamente no hardware do servidor, ou seja, precisamos de um intermediário entre as aplicações e o hardware, que é o **sistema operacional**. Ou seja, devemos instalar sistemas operacionais em cada servidor, e os sistemas poderiam ser diferentes:
 
