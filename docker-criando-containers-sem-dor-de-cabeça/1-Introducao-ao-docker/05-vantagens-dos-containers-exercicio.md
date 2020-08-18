@@ -1,4 +1,4 @@
-# 05 Vantagens dos containers
+# 05 Vantagens dos containers Exercicio
 
 Eduardo está encarregado de convencer seu chefe a utilizar containers na infraestrutura de sua empresa. Para isso criou alguns slides para apresentar suas ideias. Um slide específico está intitulado **Benefícios dos Containers**, com os tópicos abaixo. Contudo, um deles **não é** um benefício do uso de containers. Ajude Eduardo apontando qual alternativa está errada.
 

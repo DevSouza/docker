@@ -17,6 +17,6 @@ O **Docker** nada mais é do que uma coleção de tecnologias para facilitar o d
 Outras tecnologias do Docker que facilitam a nossa vida e que veremos neste curso são o **Docker Compose**, um jeito fácil de definir e orquestrar múltiplos containers; o **Docker Swarm**, uma ferramenta para colocar múltiplos docker engines para trabalharem juntos em um cluster; o **Docker Hub**, um repositório com mais de 250 mil imagens diferentes para os nossos containers; e a **Docker Machine**, uma ferramenta que nos permite gerenciar o Docker em um host virtual.
 
 ### Open Source
-Quando a empresa **dotCloud** tornou-se a **Docker, Inc.**, focada em manter o **Docker**, ela o abriu para o mundo open source, tudo disponibilizado no seu ![GitHub](https://github.com.br/),inclusive com várias empresas contribuindo para o desenvolvimento dessa tecnologia.
+Quando a empresa **dotCloud** tornou-se a **Docker, Inc.**, focada em manter o **Docker**, ela o abriu para o mundo open source, tudo disponibilizado no seu [GitHub](https://github.com.br/),inclusive com várias empresas contribuindo para o desenvolvimento dessa tecnologia.
 
 Apesar de haver alguns serviços pagos, em sua grande parte a tecnologia do Docker é uma tecnologia open source, utilizada por várias empresas. Então, vamos colocar as mãos na massa e aprender a instalar o Docker nas próximas aulas.
