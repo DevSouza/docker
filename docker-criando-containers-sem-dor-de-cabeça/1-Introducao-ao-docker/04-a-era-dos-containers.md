@@ -8,13 +8,13 @@ Não temos mais um sistema operacional para cada aplicação, já que agora as a
 
 Assim, com somente um sistema operacional, reduzimos os custos de manutenção e de infraestrutura como um todo.
 
-# Vantagens de um container
+### Vantagens de um container
 
 Por não possuir um sistema operacional, o container é muito mais leve e não possui o custo de manter múltiplos sistemas operacionais, já que só teremos um sistema operacional, que será dividido entre os containers.
 
 Além disso, por ser mais leve, o container é muito rápido de subir, subindo em questão de segundos. Logo, o container é uma solução para suprir o problema de múltiplas máquinas virtuais em um hardware físico, já que com o container, nós dividimos o sistema operacional entre as nossas aplicações.
 
-# Necessidade do uso de containers
+### Necessidade do uso de containers
 
 Mas por que precisamos dos containers, não podemos simplesmente instalar as aplicações no nosso próprio sistema operacional? Até por que já fazemos isso, já que no nosso sistema operacional temos um editor de texto, terminal, navegador, etc.
 
