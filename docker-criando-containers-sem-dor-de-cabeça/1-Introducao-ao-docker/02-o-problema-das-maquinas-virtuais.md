@@ -10,7 +10,7 @@ Antigamente, quando queríamos montar o nosso sistema, com vários serviços (ba
 
 E claro, não conseguimos instalar os serviços diretamente no hardware do servidor, ou seja, precisamos de um intermediário entre as aplicações e o hardware, que é o **sistema operacional**. Ou seja, devemos instalar sistemas operacionais em cada servidor, e os sistemas poderiam ser diferentes:
 
-![](/imagens/sistema-operacional.png)
+![](./imagens/sistema-operacional.png)
 
 E se quisermos que uma aplicação se comunique com outra ou faça qualquer comunicação externa, devemos conectar os servidores à rede. Além disso, para eles funcionarem, precisamos ligá-los à eletricidade. Logo, havia diversos custos de eletricidade, rede e configuração dos servidores.
 
@@ -26,11 +26,11 @@ Para fugir desses problemas de servidores ociosos e alto tempo e custo de subir 
 
 As máquinas virtuais foram possíveis de ser criadas graças a uma tecnologia chamada **Hypervisor**, que funciona em cima do sistema operacional, permitindo a virtualização dos recursos físicos do nosso sistema. Assim, criamos uma máquina virtual que tem acesso a uma parte do nosso HD, memória RAM e CPU, criando um computador dentro de outro:
 
-![](/imagens/maquina-virtual.png)
+![](./imagens/maquina-virtual.png)
 
 E se temos uma máquina virtual que está acessando uma parte do nosso hardware como um todo, conseguimos colocar dentro dela uma das nossas aplicações. E replicar isso, criando mais máquinas virtuais com outras aplicações:
 
-![](/imagens/aplicacoes-maquinas-virtuais.png)
+![](./imagens/aplicacoes-maquinas-virtuais.png)
 
 Assim, reduzimos a quantidade de servidores e consequentemente os custos com luz e rede. Além disso, dividimos melhor o nosso hardware, aproveitando melhor os seus recursos e diminuindo a ociosidade.
 
@@ -38,7 +38,7 @@ Assim, reduzimos a quantidade de servidores e consequentemente os custos com luz
 
 Apesar de resolver os problemas do uso de vários servidores físicos, as máquinas virtuais também possuem problemas. Para podermos hospedar a nossa aplicação em uma máquina virtual, também precisamos instalar um sistema operacional nela:
 
-![](/imagens/sistema-operacional-vms.png)
+![](./imagens/sistema-operacional-vms.png)
 
 Cada aplicação necessita de um sistema operacional para poder ser executada, e esses sistemas podem ser diferentes. E apesar dos sistemas operacionais serem um software, eles possuem um custo de memória RAM, disco e processamento. Ou seja, precisamos de uma capacidade mínima para manter as funcionalidades de um sistema operacional, aumentando o seu custo de manutenção a cada sistema que tivermos.
 

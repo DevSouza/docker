@@ -2,7 +2,7 @@
 
 Um **container** funcionará junto do nosso sistema operacional base, e conterá a nossa aplicação, ou seja, a aplicação será executada dentro dele. Criamos um container para cada aplicação, e esses containers vão **dividir** as funcionalidades do sistema operacional:
 
-![](/imagens/container.png)
+![](./imagens/container.png)
 
 Não temos mais um sistema operacional para cada aplicação, já que agora as aplicações estão dividindo o mesmo sistema operacional, que está em cima do nosso hardware. Os próprios containers terão a lógica que se encarregará dessa divisão.
 
