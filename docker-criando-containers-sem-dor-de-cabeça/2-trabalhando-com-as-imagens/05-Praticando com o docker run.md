@@ -1,3 +1,5 @@
+# Praticando com o docker run
+
 Agora que já conhecemos mais sobre containers, imagens e a diferença entre eles, já podemos fazer um container mais interessante, um pouco mais complexo. Então, vamos criar um container que segurará um site estático, para entendermos também como funciona a parte de redes do Docker. Para tal, vamos baixar a imagem **dockersamples/static-site**:
 
 ```docker run dockersamples/static-site```  
@@ -19,7 +21,7 @@ a6f2fab332db   dockersamples/static-site  "/bin/sh -c 'cd /u..."   About a minut
 ```  
 Mas como fazemos para acessar o site estático?
 
-## Acessando o site
+### Acessando o site
 Em nenhum momento dizemos onde está o site estático. Qual porta que utilizamos para acessá-lo? A **80**, conforme está na saída do ```docker ps```? Essa é a porta interna que o container está utilizando. Então, o que precisamos fazer é linkar essa porta interna do container a uma porta do nosso computador. Para fazer isso, precisamos adicionar mais uma flag, a ```-P```, que fará com que o Docker atribua uma porta aleatória do mundo externo, que no caso é a nossa máquina, para poder se comunicar com o que está dentro do container:
 
 ``` docker run -d -P dockersamples/static-site ```  

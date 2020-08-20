@@ -1,4 +1,4 @@
-# 03 Comandos do Docker Exercicio
+# 03 Comandos do Docker - Exercicio
 
 Temos os seguintes comandos do Docker e suas respectivas funcionalidades:
 

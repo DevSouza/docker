@@ -2,12 +2,17 @@
 
 Selecione apenas as alternativas que são tecnologias Docker.
 
-> A) dotCloud
+- [ ] A) dotCloud
+> Não é bem assim! Esse é o nome original da empresa que criou o Docker.
+
+- [ ] B) Docker Inc.
+> Opa, opção errada! Esse é nome da empresa que atualmente mantém o Docker.
   
-> B) Docker Inc.
+- [x] C) Docker Engine
+> Isso aí! Essa é a tecnologia mais famosa e responsável por fazer o meio de campo entre os containers e o SO.
   
-> C) Docker Engine ```Isso aí! Essa é a tecnologia mais famosa e responsável por fazer o meio de campo entre os containers e o SO.```
+- [x] D) Docker Hub
+> Isso aí! O Docker Hub provê um repositório com muitas aplicações para você usar em sua infraestrutura.
   
-> D) Docker Hub ```Isso aí! O Docker Hub provê um repositório com muitas aplicações para você usar em sua infraestrutura.```
-  
-> E) Docker Swarm ```Isso aí! Essa tecnologia permite o uso de múltiplos docker hosts.```
+- [x] E) Docker Swarm
+> Isso aí! Essa tecnologia permite o uso de múltiplos docker hosts.
