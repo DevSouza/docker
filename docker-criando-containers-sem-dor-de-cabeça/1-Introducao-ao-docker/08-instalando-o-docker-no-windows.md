@@ -22,7 +22,7 @@ Seguimos o passo a passo do instalador para aceitar a licença, autorizamos o in
 
 Quando o computador terminar a reinicialização, irá aparecer um ícone do Docker na barra inferior, à direita, ao lado do relógio. O Docker pode demorar um pouco para inicializar, mas quando a mensagem **Docker is running** for exibida, significa que ele foi instalado com sucesso e já podemos utilizá-lo.
 
-# Funcionamento do Docker no Windows
+### Funcionamento do Docker no Windows
 
 O Docker é executado em cima de uma micromáquina virtual, chamada **Alpine Linux**, onde será executada a sua **Docker Engine**:
 
