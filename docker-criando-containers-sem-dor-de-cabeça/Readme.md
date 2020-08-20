@@ -1,8 +1,9 @@
 # Curso de Docker: Criando containers sem dor de cabeça
 
-- Nível **Intermediário**
-- Carga horária **10h**
-- Atualizado em **20/05/2020**
+
+> - Nível **Intermediário**
+> - Carga horária **10h**
+> - Atualizado em **20/05/2020**
 
 ## Faça esse curso de Containers e:
 - Suba um container Docker
