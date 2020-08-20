@@ -6,12 +6,14 @@ A solução para esses problemas foi a **virtualização** dos recursos físicos
 
 Mas as máquinas virtuais também possuem problemas, que estão listados abaixo, **exceto um**. Qual?  
 
-> A) Como as máquinas virtuais possuem sistemas operacionais, os mesmos possuem um custo de hardware para manter suas funcionalidades.  
+- [ ] A) Como as máquinas virtuais possuem sistemas operacionais, os mesmos possuem um custo de hardware para manter suas funcionalidades.
+> Esse é um problema das máquinas virtuais! Precisamos instalar um sistema operacional em cada uma delas, que por sua vez possui um custo de hardware para funcionar. Se houver várias máquinas virtuais, o seu custo de manutenção acaba se tornando bem alto.
+  
+- [ ] B) Como as máquinas virtuais possuem sistemas operacionais, os mesmos possuem configurações iniciais a serem feitas, e devem ser atualizados com frequência.  
+> Esse é um problema das máquinas virtuais! Como devemos instalar sistemas operacionais nelas, eles devem ser configurados (liberação de portas, instalação de bibliotecas, etc) e estar sempre atualizados, principalmente por questões de segurança.
 
-> B) Como as máquinas virtuais possuem sistemas operacionais, os mesmos possuem configurações iniciais a serem feitas, e devem ser atualizados com frequência.  
+- [ ] C) Manter vários sistemas operacionais requer muito tempo de trabalho, chegando a equivaler ao tempo requerido para manter as aplicações
+> Esse é um problema das máquinas virtuais! Manter vários sistemas operacionais gera trabalho, consumindo tempo que poderia estar sendo utilizada para manter/criar aplicações.
 
-> C) Manter vários sistemas operacionais requer muito tempo de trabalho, chegando a equivaler ao tempo requerido para manter as aplicações  
-
-
-> D) A dificuldade em fazer um backup dos dados.  
-> ```Esse não é um problema das máquinas virtuais! O backup dos dados de uma máquina virtual pode ser feito com certa facilidade, seja por softwares externos ou através das próprias VMs.```
+- [x] D) A dificuldade em fazer um backup dos dados.  
+> Esse não é um problema das máquinas virtuais! O backup dos dados de uma máquina virtual pode ser feito com certa facilidade, seja por softwares externos ou através das próprias VMs.
