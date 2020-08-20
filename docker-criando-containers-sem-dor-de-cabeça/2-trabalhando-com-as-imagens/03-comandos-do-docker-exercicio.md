@@ -11,7 +11,7 @@ Temos os seguintes comandos do Docker e suas respectivas funcionalidades:
 Quais funcionalidades, e seus respectivos comandos, estão corretas?
 
 > A) Funcionalidade 1
-> Alternativa errada! A funcionalidade 1 está errada, pois o comando ```docker ps``` mostra apenas os containers em execução. O correto então é ```docker ps -a```. A flag ```-a``` faz com que ps mostre todos os containers. Alternativamente você pode usar: ```docker ps --all```.
+    > Alternativa errada! A funcionalidade 1 está errada, pois o comando ```docker ps``` mostra apenas os containers em execução. O correto então é ```docker ps -a```. A flag ```-a``` faz com que ps mostre todos os containers. Alternativamente você pode usar: ```docker ps --all```.
 
 > B) Funcionalidade 3
 > Alternativa correta! O comando ```docker container prune``` realmente apaga todos os containers inativos, mas dá um aviso antes.
