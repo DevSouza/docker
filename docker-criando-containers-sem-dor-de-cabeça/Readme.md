@@ -2,10 +2,10 @@
 
 
 > - Nível **Intermediário**
-> - Carga horária **10h**
 > - Atualizado em **20/05/2020**
 
 ## Faça esse curso de Containers e:
+
 - Suba um container Docker
 - Crie e personalize imagens
 - Crie receitas e scripts
