@@ -38,6 +38,6 @@ Uma outra vantagem é que as camadas de uma imagem são **somente para leitura**
 
 Então, quando criamos um container, ele é criado em cima de uma imagem já existente e nele nós conseguimos escrever. E com uma imagem base, podemos reaproveitá-la para diversos containers:
 
-![Reaproveitando uma imagem para vários containers](imagem-varios-containers.png)
+![Reaproveitando uma imagem para vários containers](./imagens/imagem-varios-containers.png)
 
 Isso nos traz economia de espaço, já que não precisamos ter uma imagem por container.
