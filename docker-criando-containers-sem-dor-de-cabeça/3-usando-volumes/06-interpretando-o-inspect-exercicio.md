@@ -1,4 +1,4 @@
-# Interpretando o Inspect - Exercicio
+# 06 Interpretando o Inspect - Exercicio
 
 Flavio é um programador com muita experiência no mundo Javascript, porém agora resolveu se aventurar no mundo do Docker. Ao pensar em como iria organizar os caminhos dos volumes em sua máquina e container, ele executou o comando ```docker inspect```. Abaixo temos um pedaço da saída do comando ```docker inspect ID_DO_CONTAINER``` no terminal de Flavio, sobre a saída abaixo é verdade que:
 

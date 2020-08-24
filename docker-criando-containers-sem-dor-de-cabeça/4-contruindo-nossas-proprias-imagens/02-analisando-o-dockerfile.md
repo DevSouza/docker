@@ -1,4 +1,4 @@
-# Analisando o Dockerfile
+# 02 Analisando o Dockerfile
 
 No primeiro dia de trabalho de Fernando, ele encontrou um Dockerfile chamado ```ns.dockerfile```:
 

@@ -1,4 +1,4 @@
-# Desvantagens das máquinas virtuais - Exercicio
+# 03 Desvantagens das máquinas virtuais - Exercicio
 
 Vimos que utilizar um servidor físico separado para cada serviço do nosso sistema gera vários problemas, entre eles o custo de luz e rede, e o seu alto tempo de ociosidade.  
 

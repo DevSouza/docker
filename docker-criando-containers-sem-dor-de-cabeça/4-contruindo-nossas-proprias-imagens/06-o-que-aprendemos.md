@@ -1,4 +1,4 @@
-# O que aprendemos?
+# 06 O que aprendemos?
 
 Aprendemos neste capítulo:
 

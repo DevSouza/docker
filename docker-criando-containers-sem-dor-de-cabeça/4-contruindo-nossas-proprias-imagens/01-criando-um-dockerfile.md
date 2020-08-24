@@ -1,4 +1,4 @@
-# Criando um Dockerfile
+# 01 Criando um Dockerfile
 
 Já trabalhamos com a imagem do **ubuntu**, **hello-world**, **dockersamples/static-site** e por fim do **node**, mas até agora não criamos a nossa própria imagem, para podermos distribuir para as outras pessoas. Então é isso que faremos nesta aula.
 

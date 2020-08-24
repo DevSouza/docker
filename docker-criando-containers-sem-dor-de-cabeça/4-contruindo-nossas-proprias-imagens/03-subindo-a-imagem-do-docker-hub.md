@@ -1,4 +1,4 @@
-# Subindo a imagem do Docker Hub
+# 03 Subindo a imagem do Docker Hub
 
 Já criamos a imagem, mas por enquanto ela só está na nossa máquina local. Para disponibilizar a imagem para outras pessoas, precisamos enviá-la para o [Docker Hub](https://hub.docker.com/).
 

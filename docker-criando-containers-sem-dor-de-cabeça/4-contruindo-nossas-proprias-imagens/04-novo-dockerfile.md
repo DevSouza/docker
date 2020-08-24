@@ -1,4 +1,4 @@
-# Novo Dockerfile - Exercicio
+# 04 Novo Dockerfile - Exercicio
 
 Guilherme Nicolau recebeu as seguintes instruções para criação de um docker container:
 
